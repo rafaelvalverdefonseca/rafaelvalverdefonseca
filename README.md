@@ -1,22 +1,7 @@
 # Olá, sou Rafael !!
 ## Bem vindo ao meu perfil GitHub 👋 💻
 
-
-
-<!--
-- 🔭 Atualmente estou trabalhando como Adinistrator em um centro automotivo
-- 🌱 Atualmente estou aprendendo Desenvolvimento FullStack
-- 📫 Como entrar em contato comigo: rafaelvalverdefonseca@gmail.com
--->
-
-Meu ingresso na carreira profissional se deu por meio do Deign Grafi  
-
-
 <br clear="both">
-
-<h4 align="right"># Saúdo a todos...<br># Sou Rafael Valverde</h4>
-
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rafaelvalverdefonseca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
