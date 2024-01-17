@@ -9,10 +9,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rafaelvalverdefonseca/rafaelvalverdefonseca/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="30" alt="illustrator logo"  />
   <img width="12" />
