@@ -1,5 +1,4 @@
-# Olá, sou Rafael !!
-## Bem vindo ao meu perfil GitHub 👋 💻
+# Olá, sou Rafael !!  ## Bem vindo ao meu perfil GitHub 👋 💻
 
 <br clear="both">
 
